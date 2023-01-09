@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammad Baqir
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science, Computer Communications and Networks, Digital Signal Processing
-- 💞️ I’m looking to collaborate on nothing, currently.
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, Data Science, Embeded and Digital System Designs.
+- 🌱 I’m currently learning Deep Image Processing, Digital Signal Processing, Digital System Designs, Deep Learning
 - 📫 How to reach me ... via github or my email, alibaqir395@gmail.com
 
 <!---
